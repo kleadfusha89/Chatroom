@@ -8,11 +8,6 @@ using System.Threading;
 using System.Net.Sockets;
 
 
-// Course:          CPSC-24500-002
-// Instructor:      Natalie Adams
-// Student:         Klead Fusha
-// Assignment:      Hw 4 - Chat Room
-
 
 
 namespace MultiConnections
