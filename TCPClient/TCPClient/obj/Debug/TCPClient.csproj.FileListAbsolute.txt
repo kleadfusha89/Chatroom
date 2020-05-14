@@ -1,0 +1,14 @@
+F:\FALL 2019 LEWIS\OOP\Chat Room Files\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+F:\FALL 2019 LEWIS\OOP\Chat Room Files\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+F:\FALL 2019 LEWIS\OOP\Chat Room Files\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+F:\FALL 2019 LEWIS\OOP\Chat Room Files\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+F:\FALL 2019 LEWIS\OOP\Chat Room Files\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+F:\FALL 2019 LEWIS\OOP\Chat Room Files\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+F:\FALL 2019 LEWIS\OOP\Chat Room Files\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+F:\FALL 2019 LEWIS\OOP\Hw 4 Console\Hw 4\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+F:\FALL 2019 LEWIS\OOP\Hw 4 Console\Hw 4\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+F:\FALL 2019 LEWIS\OOP\Hw 4 Console\Hw 4\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+F:\FALL 2019 LEWIS\OOP\Hw 4 Console\Hw 4\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+F:\FALL 2019 LEWIS\OOP\Hw 4 Console\Hw 4\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+F:\FALL 2019 LEWIS\OOP\Hw 4 Console\Hw 4\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+F:\FALL 2019 LEWIS\OOP\Hw 4 Console\Hw 4\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
